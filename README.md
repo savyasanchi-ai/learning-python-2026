@@ -2,8 +2,8 @@
 This repository is my personal code lab for the first half of the *Programming with Mosh* course. I am documenting every small script to build muscle memory in Python syntax.
 
 ## 📍 Current Progress
-* *Video Time:* 30:00 / 6:00:00
-* *Completed:* Variables, Input,
+* *Video Time:* 1:30:00 / 6:00:00
+* *Completed:* Variables, Input
 * *Up Next:* While Loops and Logic Control.
 
 ---
